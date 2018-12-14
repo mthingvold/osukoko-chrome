@@ -34,7 +34,7 @@ function publicateWame() {
   document.getElementById('shwame').innerHTML = '<div class="alert alert-warning"><strong>You should know the following:</strong>' +
     '<ol>' +
     '<li>This is NOT an official osu! extension.</li>' +
-    '<li>Keep in mind that osu! has a formidable feature to download beatmaps for those who <a href="https://osu.ppy.sh/store/listing"> buy the osu! suppoerter tag.</a></li>' +
+    '<li>Keep in mind that osu! has a formidable feature to download beatmaps for those who <a href="https://osu.ppy.sh/store/listing"> buy the osu! supporter tag.</a></li>' +
     '</ol></div>';
 }
 
